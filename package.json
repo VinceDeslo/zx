@@ -59,7 +59,7 @@
     "chalk": "^5.2.0",
     "fs-extra": "^11.1.1",
     "fx": "*",
-    "globby": "^13.1.4",
+    "globby": "^14.1.0",
     "minimist": "^1.2.8",
     "node-fetch": "3.3.1",
     "ps-tree": "^1.2.0",
